@@ -17,25 +17,25 @@
 1. Explain what TDD is.
 
 ```
-// Your answer here
+// TDD is test driven development, a cycle to help writing lean code to ensure tests are passed and only writing the code need to pass. 
 ```
 
 2. List three benefits of TDD.
 
 ```
-// Your answer here
+// Visual checks help to ensure good quality of code and simpler designs and to provide a platform for testing of code
 ```
 
 3. Explain what is red, green, refactor.
 
 ```
-// Your answer here
+// This is a colour scheme of code not working which is red, green code working and refactor as code to improve to make cleaner code.
 ```
 
 4. What is "just enough code"?
 
 ```
-// Your answer here
+// Using the first rule of TDD, there is only enough code typed which makes a failing test pass, this is the aim to reduce time in a debugger as an advantage. 
 ```
 
 ---
